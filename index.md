@@ -5,11 +5,11 @@
 ### Data Science 
 
 [Investigating a Relational Database](/sample_page)
-<img src="images/.jpg?raw=true"/>
+<img src="images/project1.jpg?raw=true"/>
 
 ---
 [Exploring US bikeshare Data](/pdf/sample_presentation.pdf)
-<img src="divvy.jpg?raw=true"/>
+<img src="images/divvy.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
