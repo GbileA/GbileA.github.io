@@ -1,11 +1,7 @@
 title: Emmanuel Adegbile # your name (or website title) here
 logo: "/images/Mylinkedinpicture.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  In pursuit of advancing my career in data science, I recently completed a Udacity nanodegree program, acquiring comprehensive knowledge in areas such as data analysis, Version control, visualisation and stastistical modeling.
-  <br><br>
-  I am proficient in Python programming language, data visualization with excel and data processing and retrieval with SQL. I am interested in working with large datasets, including cleaning, connecting and mining data.
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Junior data scientist proficient in Python programming language, data visualization with excel and data processing and retrieval with SQL seeking full-time entry level roles. 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
