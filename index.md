@@ -5,7 +5,7 @@
 ### Data Science 
 
 [Investigating a Relational Database](/sample_page)
-<img src="images/project1.jpg?raw=true"/>
+<img src="images/project1.png?raw=true"/>
 
 ---
 [Exploring US bikeshare Data](/pdf/sample_presentation.pdf)
