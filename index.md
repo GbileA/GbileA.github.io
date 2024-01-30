@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Science 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Investigating a Relational Database](/sample_page)
+<img src="images/.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Exploring US bikeshare Data](/pdf/sample_presentation.pdf)
+<img src="divvy.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
