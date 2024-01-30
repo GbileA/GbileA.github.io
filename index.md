@@ -5,7 +5,8 @@
 ### Data Science 
 
 [Investigating a Relational Database](/sample_page)
-** In this project, I utilized SQL to analyze the Sakila DVD Rental database, crafting SQL queries to uncover insights and address pertinent questions within the dataset. I demonstrated proficiency in SQL querying and data visualization by executing SQL queries and presenting the results using visualizations with Excel.**
+</br>
+_In this project, I utilized SQL to analyze the Sakila DVD Rental database, crafting SQL queries to uncover insights and address pertinent questions within the dataset. I demonstrated proficiency in SQL querying and data visualization by executing SQL queries and presenting the results using visualizations with Excel._
 
 
 
