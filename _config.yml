@@ -1,7 +1,14 @@
 title: Emmanuel Adegbile # your name (or website title) here
 logo: "/images/Mylinkedinpicture.jpg?raw=true" # your photo (or logo) here
 
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/emmanueladegbile/">LinkedIn</a> |
+  <a href="https://github.com/GbileA">GitHub</a>
+  </p>
+  
+  <p align="justify">
   Junior data scientist proficient in Python programming language, data visualization with excel and data processing and retrieval with SQL seeking full-time entry level roles. 
   
 remote_theme: pages-themes/minimal@v0.2.0
