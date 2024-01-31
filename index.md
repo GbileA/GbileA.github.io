@@ -10,7 +10,7 @@ _In this project, I utilized SQL to analyze the Sakila DVD Rental database, craf
 
 
 
-
+<img src="images/dvd-rental-erd-2.png?raw=true"/>
 <img src="images/project1.png?raw=true"/>
 
 ---
