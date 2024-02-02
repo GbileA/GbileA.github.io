@@ -28,3 +28,4 @@ _I utilized Python to analyze data from bike share systems in three prominent ci
 <img src="images/divvy.jpg?raw=true"/>
 
 ---
+<center>© 2024 Emmanuel Adegbile. Powered by Jekyll and the Minimal Theme.</center>
