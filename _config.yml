@@ -1,6 +1,8 @@
 title: <p align="center"> Emmanuel Adegbile </p>
 
-logo:  "/images/Mylinkedinpicture.png?raw=true"
+logo:  <p align="center">
+  <img src="/images/Mylinkedinpicture.png?raw=true" alt="Description of Image">
+</p>
 
 description: > 
   <p align="center">
