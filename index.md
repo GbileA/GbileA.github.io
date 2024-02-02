@@ -15,7 +15,7 @@ _In this project, I utilized SQL to analyze the Sakila DVD Rental database, craf
 
 ---
 ### __[Exploring US bikeshare Data]__
-![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20_Notebook-blue?style=plastic&logo=Jupyter)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20_Notebook-blue?style=plastic&logo=Jupyter)](https://github.com/gbile/Bikeshare.ipynb)
 
 <img src="images/divvy.jpg?raw=true"/>
 
