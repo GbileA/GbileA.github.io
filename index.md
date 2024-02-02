@@ -20,7 +20,7 @@ _In this project, I utilized SQL to analyze the Sakila DVD Rental database, craf
 ---
 ### __Exploring US bikeshare Data__
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20_Notebook-blue?style=plastic&logo=Jupyter)](pdf/Bikeshare.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on%20_GitHub-cyan?style=plastic&logo=Jupyter)](https://github.com/GbileA/GbileA.github.io/blob/master/Bikeshare.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-cyan?style=plastic&logo=GitHub)](https://github.com/GbileA/GbileA.github.io/blob/master/Bikeshare.ipynb)
 
 _I utilized Python to analyze data from bike share systems in three prominent cities of the United States: Chicago, New York City, and Washington. I developed code to import and manipulate the data, allowing for the calculation of descriptive statistics to uncover insights. Additionally, I created a script that provides an interactive terminal experience, allowing users to input raw data and receive real-time statistics, enhancing the accessibility and usability of the analysis._
 
