@@ -5,6 +5,10 @@
 ## Data Science 
 
 ### __Investigating a Relational Database__
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?style=plastic&logo=Jupyter)](pdf/Sakila_Database.html)
+
+
+
 _In this project, I utilized SQL to analyze the Sakila DVD Rental database, crafting SQL queries to uncover insights and address pertinent questions within the dataset. I demonstrated proficiency in SQL querying and data visualization by executing SQL queries and presenting the results using visualizations with Excel._
 
 
