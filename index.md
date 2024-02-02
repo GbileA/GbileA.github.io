@@ -4,7 +4,7 @@
 
 ## Data Science 
 
-### __[Investigating a Relational Database](/sample_page)__
+### __Investigating a Relational Database__
 _In this project, I utilized SQL to analyze the Sakila DVD Rental database, crafting SQL queries to uncover insights and address pertinent questions within the dataset. I demonstrated proficiency in SQL querying and data visualization by executing SQL queries and presenting the results using visualizations with Excel._
 
 
@@ -14,7 +14,7 @@ _In this project, I utilized SQL to analyze the Sakila DVD Rental database, craf
 <img src="images/project1.png?raw=true"/>
 
 ---
-### __[Exploring US bikeshare Data]__
+### __Exploring US bikeshare Data__
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20_Notebook-blue?style=plastic&logo=Jupyter)](pdf/Bikeshare.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on%20_GitHub-cyan?style=plastic&logo=Jupyter)](https://github.com/GbileA/GbileA.github.io/blob/master/Bikeshare.ipynb)
 
